@@ -1,2 +1,5 @@
-svastara/*
-more_2022/*
+*.users
+*.db
+*.properties
+*.keys
+*.pem
