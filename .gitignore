@@ -1,5 +1,1 @@
-*.users
-*.db
-*.properties
-*.keys
-*.pem
+bin/*
